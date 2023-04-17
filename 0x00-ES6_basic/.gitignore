@@ -1,0 +1,4 @@
+.package.json
+./node_modules/webpack/lib/dependencies/RequireResolveDependency.js
+./node_modules/webpack/lib/dependencies/RequireResolveHeaderDependency.js
+./node_modules/webpack/lib/dependencies/RequireResolveRequestDependency.js
